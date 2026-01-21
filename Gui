@@ -1,4 +1,3 @@
-# GUI wrapper that uses GameEngine. Keep GUI concerns separated from engine.
 import tkinter as tk
 from src.game_engine import GameEngine
 
